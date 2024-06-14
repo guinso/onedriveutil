@@ -16,8 +16,8 @@
 ======================
 Command line example:
 ======================
--upload "C:\Users\benjamin\Downloads\testing graph.pdf" "Myreka Share Folder/IT/Backup Myreka ERP/ssl/Account summary and transactions.pdf"
--download "C:\Users\benjamin\Downloads\testing graph.pdf" "Myreka Share Folder/IT/Backup Myreka ERP/ssl/Account summary and transactions.pdf"
+-upload "C:\Users\benjamin\Downloads\testing graph.pdf" "My Share Folder/Backup/ssl/account summary.pdf"
+-download "C:\Users\benjamin\Downloads\testing graph.pdf" "My Share Folder/Backup/ssl/account summary.pdf"
 
 =====================
 Deployment - Linux
